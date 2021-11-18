@@ -28,3 +28,19 @@ body {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.formcontainer {
+    display: flex;
+    position: absolute;
+    left: 600px;
+    width: 600px;
+    top: 12 px;
+}
